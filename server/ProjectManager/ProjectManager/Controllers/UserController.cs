@@ -27,7 +27,7 @@ namespace ProjectManager.Controllers
         [ProjectManagerLogFilter]
         [ProjectManagerExceptionFilter]
         [Route("api/test")]
-        public JSendResponse GetUser()
+        public JSendResponse TestUser()
         {
             return new JSendResponse()
             {
@@ -39,7 +39,7 @@ namespace ProjectManager.Controllers
         [ProjectManagerLogFilter]
         [ProjectManagerExceptionFilter]
         [Route("api/user")]
-        public JSendResponse TestUser()
+        public JSendResponse GetUser()
         {
             List<User> Users = _userObjBC.GetUser();
 
