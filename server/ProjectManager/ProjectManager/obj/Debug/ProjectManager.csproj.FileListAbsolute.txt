@@ -141,4 +141,3 @@ C:\Users\Administrator\Desktop\375543_FSE\SB\FseFinalProject\server\ProjectManag
 C:\Users\Administrator\Desktop\375543_FSE\SB\FseFinalProject\server\ProjectManager\ProjectManager\bin\System.Web.Http.WebHost.xml
 C:\Users\Administrator\Desktop\375543_FSE\SB\FseFinalProject\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.dll
 C:\Users\Administrator\Desktop\375543_FSE\SB\FseFinalProject\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
-C:\Users\Administrator\Desktop\375543_FSE\SB\FseFinalProject\server\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache

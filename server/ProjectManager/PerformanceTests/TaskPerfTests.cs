@@ -7,7 +7,7 @@ namespace PerformanceTests
     [TestClass]
     public class TaskPerfTests
     {
-        [PerfBenchmark(NumberOfIterations = 50, RunMode = RunMode.Throughput,
+        [PerfBenchmark(NumberOfIterations = 500, RunMode = RunMode.Throughput,
         TestMode = TestMode.Test, SkipWarmups = true)]
         [ElapsedTimeAssertion(MaxTimeMilliseconds = 5000)]
         [GcTotalAssertion(GcMetric.TotalCollections,GcGeneration.Gen2,MustBe.ExactlyEqualTo,0.0d)]
