@@ -7,7 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <_NewBackgroundProfile>False</_NewBackgroundProfile>
-    <_PublishTargetUrl>C:\Users\Administrator\Desktop\Deployment\ProjrctManagerServer</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\375543_FSE\Pblish\API</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/App_global.asax.compiled">
@@ -35,7 +35,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/16/2019 10:48:13</publishTime>
     </File>
     <File Include="bin/ProjectManager.dll">
-      <publishTime>09/17/2019 14:34:52</publishTime>
+      <publishTime>09/18/2019 22:12:30</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>09/16/2019 10:48:04</publishTime>
@@ -200,7 +200,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/17/2019 07:32:55</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>09/17/2019 14:35:12</publishTime>
+      <publishTime>09/18/2019 22:13:18</publishTime>
     </File>
   </ItemGroup>
 </Project>
